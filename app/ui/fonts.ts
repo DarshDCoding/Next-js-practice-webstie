@@ -6,6 +6,7 @@ export const lusitana= Lusitana({
     subsets:['latin']
 })
 export const montserrat = Montserrat({
-    weight: ["400", "700"]
+    weight: ["400", "700"],
+    subsets:['latin']
 })
 
